@@ -1,0 +1,7 @@
+baseURL = "https://master.d3oav7jctcswed.amplifyapp.com/"
+languageCode = "en-us"
+# title = "Abode"
+theme = "ananke"
+
+# SectionPagesMenu = "main"
+enableRobotsTXT = true
